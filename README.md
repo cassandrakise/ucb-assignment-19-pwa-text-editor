@@ -13,7 +13,8 @@ This progressive web application (PWA) is a text editor and has the following ca
 
 ## Links for Project
 - https://github.com/cassandrakise/ucb-assignment-19-pwa-text-editor
--  
+- https://cassandrakise.github.io/ucb-assignment-19-pwa-text-editor/
+- https://ucb-assignment-19-pwa-textedit.herokuapp.com/
 
 ## Images of Project
 - [Screenshot!](./images/ucb19_image01.jpg)
